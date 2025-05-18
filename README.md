@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghastlyumami
 - 🌱 I’m currently learning how to use ZMK for my Dactyl Manuform.
-- ⚡ Fun fact: Christ is Risen! Truly He is Risen!
+- ☦️ Christ is Risen! Truly He is Risen!
 
 <!---
 ghastlyumami/ghastlyumami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
