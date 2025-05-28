@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ghastlyumami
-- 🌱 I’m currently learning how to use ZMK for my Dactyl Manuform.
+- 🌱 I’m currently learning how to use Git and ZMK for my Dactyl Manuform and perhaps for dotfiles.
+- 🪟🐧 OS neutral
 - ☦️ Christ is Risen! Truly He is Risen!
 
 <!---
